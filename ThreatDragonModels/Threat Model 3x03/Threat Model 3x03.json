@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Model 3x03",
+    "owner": "victor",
+    "description": "Threat modeling for secure software development"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "victor"
+  }
+}
